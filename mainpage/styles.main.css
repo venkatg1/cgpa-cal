@@ -1,0 +1,7 @@
+body{background-color:rosybrown;}
+.wrapper{max-width:90%; margin: 0 auto;}
+h1{text-align: center;margin: 30px;font-style: italic;color: rgb(242, 6, 6);}
+h2{text-align: center;margin: 30px;color:rgb(0, 0, 0);}
+table{margin-top:30px}
+.display-none{display: none;}
+tbody td{text-transform: uppercase;}
